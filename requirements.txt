@@ -1,0 +1,4 @@
+matplotlib==3.5.3
+numpy==1.21.6
+Pillow==10.1.0
+bcrypt==0.3.2
